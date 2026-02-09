@@ -21,4 +21,5 @@ System Information
 Usage
 1. Clone the repository:
 `bash
-git clone https://github.com/mohammedfalah123/Hybrid_Energy_Harvester.gitHybrid_Energy_Harvester
+git clone https://github.com/mohammedfalah123/Hybrid_Energy_Harvester.git
+cd Hybrid_Energy_Harvester
