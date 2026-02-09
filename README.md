@@ -1,4 +1,4 @@
-# hybrid_pso_depath_planning_with_advanced_smoothing
+# hybridpsodepathplanningwithadvanced_smoothing
 
 Hybrid PSO-DE path planning with advanced smoothing for mobile robots in linear and nonlinear environments.
 
