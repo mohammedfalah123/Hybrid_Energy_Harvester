@@ -1,4 +1,4 @@
-# hybridpsodepathplanningwithadvanced_smoothing
+# Hybrid_Energy_Harvester
 
 Hybrid PSO-DE path planning with advanced smoothing for mobile robots in linear and nonlinear environments.
 
@@ -21,4 +21,4 @@ System Information
 Usage
 1. Clone the repository:
 `bash
-git clone https://github.com/mohammedfalah123/hybridpsodepathplanningwithadvanced_smoothing.githybridpsodepathplanningwithadvanced_smoothing
+git clone https://github.com/mohammedfalah123/Hybrid_Energy_Harvester.gitHybrid_Energy_Harvester
