@@ -1,22 +1,26 @@
 # Hybrid_Energy_Harvester
 
-Hybrid PSO-DE path planning with advanced smoothing for mobile robots in linear and nonlinear environments.
+Innovator:Mohammed Falah Hassan Al-Dhafiri
+
+Hybrid energy harvesting system using PSO, DE, and GA with advanced smoothing for efficiency and stability.
 
 Project Overview
-This repository contains the implementation of a hybrid path planning system for mobile robots using PSO (Particle Swarm Optimization) and DE (Differential Evolution) with advanced smoothing techniques. The system is capable of planning efficient, safe, and smooth paths in both linear and nonlinear environments with static and dynamic obstacles.
+This repository contains the implementation of a hybrid energy harvesting system that integrates piezoelectric, thermoelectric, and solar modules. The system applies hybrid optimization algorithms (PSO, DE, GA, and their combinations) with advanced smoothing techniques to maximize efficiency and stability under realistic physical constraints.
 
 Features
-- 6 path planning algorithms including PSO, DE, PSO+DE, PSO+GA, and their smoothing variants.  
-- Advanced smoothing with multiple iterations for optimal path curvature.  
-- Dynamic obstacle handling.  
-- Comprehensive evaluation metrics: fitness, path length, smoothness, safety, energy, and computation time.  
-- Unified evaluation for fair comparison between algorithms.  
+- Multi-source energy harvesting: vibration, heat, and light.  
+- Hybrid optimization algorithms: PSO, DE, GA, PSO+DE, PSO+GA+DE.  
+- Advanced smoothing with multi-level filtering for stable power output.  
+- Adaptive weighting between efficiency and stability.  
+- Comprehensive evaluation metrics: energy/cost ratio, stability, robustness, and computation time.  
+- Unified benchmarking for fair comparison between algorithms.  
 
 System Information
-- Simulation environment includes both linear and nonlinear spaces.  
-- Support for multiple static and dynamic obstacles.  
-- Adjustable path points and algorithm iterations.  
-- Local planner and controller integrated for realistic simulation.  
+- Simulation includes nonlinear efficiency curves, dynamic solar angles, mechanical constraints, and environmental noise.  
+- Support for multiple modules integrated in one system.  
+- Adjustable parameters for optimization iterations and cost modeling.  
+- Microcontroller-based control logic for realistic deployment.  
+
 
 Usage
 1. Clone the repository:
