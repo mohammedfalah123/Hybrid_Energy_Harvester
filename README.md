@@ -22,4 +22,4 @@ Usage
 1. Clone the repository:
 `bash
 git clone https://github.com/mohammedfalah123/hybridpsodepathplanningwithadvanced_smoothing.git
-cd hybridpsodepathplanningwithadvanced_smoothing
+hybridpsodepathplanningwithadvanced_smoothing
